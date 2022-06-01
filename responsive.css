@@ -1,0 +1,198 @@
+
+@media all and (max-width: 1600px) {}
+@media all and (max-width: 1400px) {
+    .menu {
+        margin-left: 0px;
+    }
+    .card-list ul li {
+      
+        font-size: 16px;
+     
+    }
+    
+    
+}
+@media all and (max-width: 1300px) {
+    .team {
+        width: 33%;
+        float: left;
+    }
+    .icon {
+      
+        margin-top: 10px;
+    }
+}
+
+
+
+
+@media all and (max-width: 1200px) {
+
+    .card-body.text-center {
+        width: 105% !important;
+    }
+    .card-img.text-left {
+        margin-left: -39px;
+     
+    }
+    .pricing-section .col-lg-4 {
+        width: 50% !important;
+    }
+    .pricing-section .row li {
+        width: 88%;
+    }
+   
+    .pricing-section .col-lg-4 {
+        width: 100% !important;
+    }
+    .pricing-section .col-lg-4 li {
+        margin-left: 17px;
+    }
+    .btn.btn-outline-primary.btn-lg.px-4.py-3.mt-5 {
+        margin-left: -37px;
+    }
+   
+  
+}
+
+
+
+
+@media all and (max-width: 992px) {
+    .banner-img {
+        text-align: center;
+    }
+    .banner-text {
+        margin-top: 100px;
+       
+    }
+   
+    
+    .btn.btn-outline-primary.btn-lg.px-4.py-3.mt-5 {
+      
+        padding: 12px 14px !important;
+        margin-top: 15px !important;
+    }
+   
+    .pricing-section .col-lg-4 {
+        width: 100% !important;
+    }
+    .pricing-section .row li {
+        width: 102% !important;
+        margin-left: -32px !important;
+    }
+    footer {
+        margin-top: 233px;
+    }
+
+    .contact-address {
+        text-align: center;
+       
+    }
+
+}
+@media all and (max-width: 768px) {
+  
+    .contact-address {
+        text-align: center;
+       
+    }
+}
+@media all and (max-width: 668px) {
+  
+    .for-circle {
+    
+      
+        margin-left: 5px;
+    }
+   .contact-section .row.mt-5 {
+   
+        padding-right: 0;
+    }
+    .contact-address {
+        text-align: center;
+       
+    }
+@media all and (max-width: 500px) {
+    .banner-img img {
+       
+        width: 100% !important;
+        height: auto;
+    }
+    .about-img img {
+        width: 100%;
+     
+    }
+    .about-text p {
+        text-align: justify;
+        font-size: 16px;
+    }
+    
+    
+    .col-lg-3 {
+        width: 100%;
+    }
+    footer p {
+      
+        font-size: 16px !important;
+    }
+    .contact-address {
+        text-align: center;
+       
+    }
+}
+@media all and (max-width: 420px) {
+    .about-text p {
+        text-align: justify;
+        font-size: 15px;
+    }
+    
+    .card-img.text-left {
+        margin-left: -38px;
+    }
+    element {
+   
+ 
+        margin-left: 37px;
+    }
+    .pricing-section .row li {
+        width: 107% !important;
+        
+    }
+    .pricing-heading h1 {
+     
+        font-size: 31px;
+    }
+    .pricing-heading p {
+        
+        font-size: 15px;
+    
+    }
+    .btn.btn-outline-primary.btn-lg.px-4.py-3.mt-5 {
+        margin-left: -6px;
+    }
+    footer p {
+        font-size: 14px !important;
+    }
+    .contact-address {
+        text-align: center;
+       
+    }
+  
+}
+@media all and (max-width: 380px) {
+    .banner-text {
+        margin-top: 37px;
+        text-align: center;
+    }
+    
+    .navbar-brand {
+      
+        margin-bottom: 10px;
+        width: 60%;
+    }
+    .about-text p {
+      font-size: 14px;
+        padding: 0px 4px;
+    }
+}
