@@ -87,9 +87,7 @@
         width: 102% !important;
         margin-left: -32px !important;
     }
-    footer {
-        margin-top: 233px;
-    }
+  
 
     .contact-address {
         text-align: center;
@@ -119,6 +117,7 @@
         text-align: center;
        
     }
+}
 @media all and (max-width: 500px) {
     .banner-img img {
        
@@ -201,5 +200,5 @@
       font-size: 14px;
         padding: 0px 4px;
     }
-    
+
 }
